@@ -36,6 +36,6 @@ The Truth Detector incorporates the following key features:
 
 By leveraging the capabilities of neural networks and NLP, the Truth Detector aims to contribute to building a healthier online space by combating misinformation on social media platforms. Through its sophisticated analysis and unbiased approach, it seeks to empower users to make informed decisions while upholding freedom of expression and protecting against harmful content.
 
-## Model is Saved in the file named as ""Truth_Detector.h5"" and the code is saved in the file named as ""Truth_Detector.ipynb"".
+## Model is Saved in the file named as ""Truth_Detector_WorkShop.h5"" and the code is saved in the file named as ""Truth_Detector_WorkShop.ipynb"".
 
 # HAPPY CODING!!
